@@ -10,6 +10,9 @@
 - **Integrated NFT Minting & Trading Modules**
 - **Open Metaverse Social Layer**
 - **End-to-End Developer Environment for Smart Contract Scripts**
+  📚 Documentation
+- [Whitepaper](./whitepaper.md)
+- [Architecture](./architecture.md)
 
 ## 📦 Monorepo Structure
 
@@ -21,9 +24,6 @@
     soci-api            # Backend API (Node/Nest/GraphQL)
 /contracts
     soci-core           # Smart contracts for SociFi ecosystem
-📚 Documentation
-- [Whitepaper](./whitepaper.md)
-- [Architecture](./architecture.md)
 
 🛠 Tech Stack
 Solidity, Hardhat, Foundry
