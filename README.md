@@ -22,13 +22,8 @@
 /contracts
     soci-core           # Smart contracts for SociFi ecosystem
 📚 Documentation
-Whitepaper
-
-Architecture
-
-Tokenomics
-
-Roadmap
+- [Whitepaper](./whitepaper.md)
+- [Architecture](./architecture.md)
 
 🛠 Tech Stack
 Solidity, Hardhat, Foundry
