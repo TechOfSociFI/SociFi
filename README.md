@@ -11,7 +11,7 @@
 - **Open Metaverse Social Layer**
 - **End-to-End Developer Environment for Smart Contract Scripts**
 
-  📚 Documentation
+## **📚 DOCUMENTATION**
   
  [Whitepaper](./whitepaper.md)
  
