@@ -17,5 +17,10 @@ We are excited that you are interested in contributing to **SociFi**! Whether yo
 Follow these steps to set up the SociFi codebase on your machine:
 
 1. Clone the repository:
-   ```bash
+   bash
    git clone https://github.com/socifi-protocol/socifi.git
+2. Install dependencies (use Node.js, Solidity tools like Hardhat or Foundry for smart contract development):
+npm install
+3. Run tests:
+   npm test
+   
