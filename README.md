@@ -1,5 +1,5 @@
 # 🧬 SociFi — The Web3 Social Finance Metaplatform
-![SociFi Banner](/banner.png)
+![SociFi Banner](./banner.jpg)
 **SociFi** is a next-gen Web3 social finance platform that unifies the entire decentralized ecosystem:  
 💱 CEX + DEX | 🧠 Blockchain Bots | 🪙 Tokenization | 🎮 Metaverses | 🎨 NFTs | 💬 In-app Messaging | 🧩 Open Script Sharing
 
