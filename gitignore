@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# Solidity / Hardhat
+artifacts/
+cache/
+typechain/
+*.sol
+
+# VSCode
+.vscode/
+
+# IDEs
+.idea/
+*.iml
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Log Files
+*.log
+
+# Coverage
+coverage/
+
+# Build output
+/dist/
