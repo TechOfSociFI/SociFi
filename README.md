@@ -11,7 +11,9 @@
 - **Open Metaverse Social Layer**
 - **End-to-End Developer Environment for Smart Contract Scripts**
   📚 Documentation
+  
  [Whitepaper](./whitepaper.md)
+ 
  [Architecture](./architecture.md)
 
 ## 📦 Monorepo Structure
